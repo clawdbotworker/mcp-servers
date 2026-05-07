@@ -74,6 +74,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[BigQuery](https://github.com/ergut/mcp-bigquery-server)** (by ergut) - Server implementation for Google BigQuery integration that enables direct BigQuery database access and querying capabilities
 - **[ChatSum](https://github.com/mcpso/mcp-server-chatsum)** - Query and Summarize chat messages with LLM. by [mcpso](https://mcp.so)
 - **[Chroma](https://github.com/privetin/chroma)** - Vector database server for semantic document search and metadata filtering, built on Chroma
+- **[clawdbotworker/coinopai-mcp](https://github.com/clawdbotworker/coinopai-mcp)** - Local stdio MCP server for x402-powered paid crypto intelligence, trade decision audits, risk checks, and agent automation search over USDC micropayments on Base.
 - **[Cloudinary](https://github.com/felores/cloudinary-mcp-server)** - Cloudinary Model Context Protocol Server to upload media to Cloudinary and get back the media link and details.
 - **[cognee-mcp](https://github.com/topoteretes/cognee-mcp-server)** - GraphRAG memory server with customizable ingestion, data processing and search
 - **[coin_api_mcp](https://github.com/longmans/coin_api_mcp)** - Provides access to [coinmarketcap](https://coinmarketcap.com/) cryptocurrency data.
